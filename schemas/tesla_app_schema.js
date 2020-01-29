@@ -1,4 +1,5 @@
 // MongoDB Schema
+
 user = {
   "_id": ObjectId("5ddec02bc23c74117af22dac"),
   "username": "devintyler26",
